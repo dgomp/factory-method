@@ -1,5 +1,5 @@
 # MÉTODO FACTORY E SUAS VANTAGENS
-por <a href="https://www.github.com/dgomp">Diego Parente</a>, <a href="https://www.github.com/evaristux">Gabriel Evaristo</a> e <a href="https://www.github.com/Sam11230982">Samuel Holanda</a>, para a cadeira de "Técnicas de Programação", da professora Neusa Liberato Evangelista (Uni7).
+por <a href="https://www.github.com/dgomp">Diego Parente</a>, <a href="https://www.github.com/evaristux1">Gabriel Evaristo</a> e <a href="https://www.github.com/Sam11238902">Samuel Holanda</a>, para a cadeira de "Técnicas de Programação", da professora Neusa Liberato Evangelista (Uni7).
 
 
 ## O que é?
